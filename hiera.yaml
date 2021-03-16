@@ -1,0 +1,8 @@
+---
+version: 5
+
+hierarchy:
+- name: "hieradatalar"
+  paths:
+  - "nodes/%{trusted.certname}.yaml"
+  - "common.yaml"
